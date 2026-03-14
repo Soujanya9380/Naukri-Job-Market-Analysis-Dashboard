@@ -14,7 +14,7 @@ The dataset contains job postings from the Naukri platform, including informatio
 * Which companies are hiring the most?
 * What are the top in-demand skills?
 * Which locations have the highest number of job opportunities?
-* What experience levels are most commonly required?  [View Dashboard](https://github.com/Soujanya9380/Naukri-Job-Market-Analysis-Dashboard/blob/main/dataset.csv)
+* What experience levels are most commonly required?  [View Dashboard](https://github.com/Soujanya9380/Naukri-Job-Market-Analysis-Dashboard/blob/main/dashboard.png)
 
 ## Process
 
